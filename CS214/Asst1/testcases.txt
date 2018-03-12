@@ -1,0 +1,3 @@
+Workload E: This workload is very similar to the workload C, but 10 times as big. We were trying to see if the runtime was marginally different from workload C.
+
+Workload F: This workload is very similar to the workload D, but 10 times as big. We were trying to see if the runtime was marginally different from workload D.

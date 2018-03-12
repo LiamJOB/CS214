@@ -1,0 +1,21 @@
+<?xml version= 1.0 encoding =UTF-8?>
+<fileIndex>
+	<word text=a>1</file>
+		<file name=boo.txt>1</file>
+	</word>
+	<word text=baa>1</file>
+		<file name=baa.txt>1</file>
+	</word>
+	<word text=boo>1</file>
+		<file name=boo.txt>1</file>
+	</word>
+	<word text=cat>3</file>
+		<file name=baa.txt>3</file>
+	</word>
+	<word text=dog>1</file>
+		<file name=boo.txt>1</file>
+	</word>
+	<word text=named>2</file>
+		<file name=boo.txt>2</file>
+	</word>
+</fileIndex>

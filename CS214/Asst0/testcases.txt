@@ -1,0 +1,33 @@
+./pointersorter “thing stuff otherstuff blarp”
+blarp
+otherstuff
+stuff
+thing
+
+
+./pointersorter “thing1stuff3otherstuff,blarp”
+blarp
+otherstuff
+stuff
+thing
+
+
+./pointersorter “”
+Error
+
+
+./pointersorter “This.is3a[test”
+This
+a
+is
+test
+
+./pointersorter “This is a test String” asd
+Error
+
+./pointersorter “AAnd,And,and”
+AAnd
+And
+and
+
+
